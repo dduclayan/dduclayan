@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Golang.
 - 📫 Feel free to email me at devin@duclayan.com  
 
-[devin.duclayan.com](https://devin.duclayan.com)
+[duclayan.com](http://duclayan.com)
 
 <!---
 dduclayan/dduclayan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
